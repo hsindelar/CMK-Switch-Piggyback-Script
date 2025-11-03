@@ -3,8 +3,8 @@ export PATH="/usr/local/bin:$PATH"
 
 #Shows device status, ip address, and uptime
 
-SWITCHES="10.0.0.2 10.0.0.3 10.0.0.4 10.0.0.6"
-COMMUNITY="BkejGc3hslt1"
+SWITCHES=""
+COMMUNITY=""
 
 SYSUPTIME_OID="1.3.6.1.2.1.1.3.0"
 IPADDR_OID="1.3.6.1.2.1.4.20.1.1"
